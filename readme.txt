@@ -7,3 +7,5 @@ second line
 three line
 fourth line
 fine line
+six line
+this is master insert line
